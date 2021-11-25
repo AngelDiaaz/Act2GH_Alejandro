@@ -15,6 +15,7 @@ public class Contar_GIT {
 			
 		}
 	System.out.print(" " + "Hay: " + contar);
+	System.out.println("Hola");
 	}
 	
 
